@@ -1,0 +1,2 @@
+# bayescorr
+Bayesian correlation analysis
